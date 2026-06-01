@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaideep Singh Dhunna</h1>
 <h3 align="center">Data-driven professional with hands-on experience in developing data pipelines, processing large datasets, and au- tomating business reporting solutions using Python and SQL. Proven track record of converting business requirements into scalable data solutions and reducing turnaround times for reporting. Strong interpersonal, communication, and storytelling skills.</h3>
 
-- 🔭 I’m currently working as an [SDE Intern at Pride Global Building AI Solutions for Human Capital Managemenet](https://prideglobal.com/)
+- 🔭 I’m currently working as an [AI Intern at Pride Global Building AI Solutions for Human Capital Managemenet](https://prideglobal.com/)
 
 - 🌱 I’m currently learning **Agentic AI using Langgraph,Azure**
 
